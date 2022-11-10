@@ -22,27 +22,27 @@ global.APIKeys = {
 global.owner = ['96891103640']
 global.premium = ['96891103640']
 global.ownernomer = '96891103640'
-global.ownername = '( الـمـطـور )'
-global.botname = '( بـوت غـوجـو )'
-global.footer = '( غـوجـو )'
+global.ownername = '( يوريتشي )'
+global.botname = '( Miku BOT )'
+global.footer = '( Miku BOT )'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://chat.whatsapp.com/CKLmAGJo3iw5AvNM1KZee3'
 global.myweb = 'https://youtube.com/channel/UCPvrnWknQrgCSIeobXMP0Uw'
 global.packname = 'https://Wa.Me/+96891103640'
-global.author = '[ غـوجـو ]'
+global.author = '[ Miku BOT ]'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: '✓',
-    admin: '*「 هـذا الامـر فـقـط لـ المـشـرفـيـن 」◣*',
-    botAdmin: '*「 اعـطـنـي إشـراف لـتـفـعـيـل  الامـر 」◣*',
-    owner: '*「 هـذا الامـر فـقـط لـ الـمـالـك 」◣*',
-    group: '*「 هـذا الامـر فـي الـمـجـمـوعـات فـقـط 」◣*',
-    private: '*「 هـذا الامـر فـي الـخـاص فـقـط 」◣*',
-    bot: '*「 هـذا الامـر مـخـصـص لـ الـبـوت 」◣*',
-    wait: '*「 انـتـظـر مـن فـضـلـك 」◣*',
+    admin: '*「 يورع هذا للأدمن فقط 」◣*',
+    botAdmin: '*「 اديني ادمن الاول كده 」◣*',
+    owner: '*「 يورع هذا لصاحب البوت 」◣*',
+    group: '*「 في المجموعه مش هنه 」◣*',
+    private: '*「 ده في الخاص مش هنه 」◣*',
+    bot: '*「 يورع هذا لصاحب البوت 」◣*',
+    wait: '*「 ثانيا كدااا 」◣*',
     error: 'Error! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 1000 Hours',
 }
